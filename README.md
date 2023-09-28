@@ -1,1 +1,1 @@
-# Task 1 = size report , Task 2 = finding end of maze map , Task 3 = Cluster
+# Task 1 = size report , Task 2 = finding end of maze map , Task 3 = Cluster , Task 4 = Hexagonal map plot using R6 object model , Task 5 = Decorators in R , Task 6 = Function that finds "findminumum"
